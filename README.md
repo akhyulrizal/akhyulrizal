@@ -12,7 +12,6 @@
   <sub>
     <i>
       💡 "Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."<br><br>
-      <strong>Ayo Belajar Bersama!</strong>
     </i>
   </sub>
 </p>
