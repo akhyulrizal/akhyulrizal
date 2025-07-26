@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;I'm+a+Machine+Learning+Engineer;I'm+a+Software+Engineer;I'm+a+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;I'm+a+Machine+Learning+Engineer;I'm+a+Software+Engineer;I'm+a+Data+Scientist;I'm+into+Web+Development" alt="Typing SVG" />
 
   <br><br>
 
@@ -33,5 +33,8 @@
 
   <!-- CSS -->
   <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" title="CSS3" style="margin: 0 10px;" />
+
+  <!-- JavaScript -->
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" title="JavaScript" style="margin: 0 10px;" />
 
 </div>
