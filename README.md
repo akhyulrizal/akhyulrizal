@@ -12,23 +12,31 @@
 
 <br>
 
-<!-- Programming Skills Section (Left Aligned) -->
+<!-- Programming Skills Title (Left Aligned, RGB Gradient) -->
 <p align="left">
-  <strong><u>Programming Skills</u></strong>
+  <strong>
+    <span style="background: linear-gradient(to right, #ff0000, #00ff00, #0000ff); -webkit-background-clip: text; color: transparent;">
+      Programming Skills:
+    </span>
+  </strong>
 </p>
 
+<!-- Skills Icons (Left Aligned) -->
 <p align="left">
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" alt="Python" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" alt="HTML5" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" alt="CSS3" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" alt="JavaScript" />
   </a>
   <a href="https://www.java.com/" target="_blank" title="Java">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" alt="Java" />
-  </a>
-  <a href="https://www.rust-lang.org/" target="_blank" title="Rust">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40" alt="Rust" />
   </a>
 </p>
 
