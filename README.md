@@ -8,19 +8,22 @@
   <!-- Motivation Line -->
   <b><i style="color:#00ff88;">every connection helps me grow — thank you for being here.</i></b>
 
-  <br><br>
+</div>
 
-  <!-- Skills Title (Smaller and Renamed) -->
-  <h4><strong><u>Skills</u></strong></h4>
+<br><br>
 
-  <!-- Only Python Skill -->
-  <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48" alt="Python" />
-  </a>
+<!-- Skills Section - Aligned Left -->
+<h4><strong><u>Skills</u></strong></h4>
 
-  <br><br>
+<a href="https://www.python.org/" target="_blank" title="Python">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48" alt="Python" />
+</a>
 
-  <!-- Social Media Icons (Small Size) -->
+<br><br>
+
+<div align="center">
+
+  <!-- Social Media Icons (Small Size & Centered) -->
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="30" />
   </a>
