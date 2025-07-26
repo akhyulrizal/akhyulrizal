@@ -11,9 +11,7 @@
 <p align="center">
   <sub>
     <i>
-      Saya belajar IT karena saya percaya bahwa <strong>teknologi adalah masa depan</strong>.<br>
-      Mulai dari menyelesaikan masalah dunia nyata hingga membangun proyek-proyek inovatif,<br>
-      saya bersemangat untuk terus tumbuh, gagal, dan berkembang — satu baris kode setiap harinya.<br><br>
+     <br><br>
       💡 "Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."<br><br>
       <strong>Ayo Belajar Bersama!</strong>
     </i>
