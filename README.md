@@ -10,7 +10,7 @@
 <!-- Motivation Section -->
 <p align="center">
   <i>
-    💡 <b>Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih.</b>
+    💡 ""Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih.""
   </i>
 </p>
 
