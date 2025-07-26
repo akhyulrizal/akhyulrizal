@@ -1,18 +1,11 @@
-<!-- GitHub Profile README -->
-
 <div align="center" style="background-color:#000; padding: 30px; border-radius: 12px;">
-  
-  <h1 style="color:#00ff99; font-family: monospace;">
-    <span id="typed-text"></span><span id="cursor">|</span>
-  </h1>
 
-  <br/>
+  <!-- Typing GIF as header -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF99&center=true&vCenter=true&width=435&lines=Hi+Akhyul+Rizal+👋;Can+you+help+us+grow+by+sharing%3F" alt="Typing SVG" />
 
-  <h3 style="color:#00ff99;">Can you help us to grow by sharing?</h3>
+  <br/><br/>
 
-  <br/>
-
-  <!-- Social Icons -->
+  <!-- Social icons -->
   <a href="https://github.com/USERNAME" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="40" />
   </a>
@@ -22,28 +15,14 @@
   <a href="https://instagram.com/USERNAME" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" />
   </a>
+  <a href="mailto:itsvgin@gmail.com" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" />
+  </a>
 
   <br/><br/>
 
-  <!-- Email -->
-  <p style="color:#ccc; font-size: 16px;">
-    📧 myakhyulr@gmail.com
+  <!-- Email text -->
+  <p style="color:#cccccc; font-size: 16px;">
+    itsvgin@gmail.com
   </p>
-
 </div>
-
-<!-- Typing Animation -->
-<script>
-  const text = "Hi i'm Akhyul Rizal 👋";
-  let i = 0;
-
-  function typeWriter() {
-    if (i < text.length) {
-      document.getElementById("typed-text").innerHTML += text.charAt(i);
-      i++;
-      setTimeout(typeWriter, 100);
-    }
-  }
-
-  window.onload = typeWriter;
-</script>
