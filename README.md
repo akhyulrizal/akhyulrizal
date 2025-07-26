@@ -5,7 +5,7 @@
 
   <br><br>
 
-  <p style="color:#00ff88; font-size: 18px;">Can you help us to grow by sharing?</p>
+  <p style="color:#00ff88; font-size: 18px;">Let's grow together — your support means a lot! </p>
 
   <br>
 
