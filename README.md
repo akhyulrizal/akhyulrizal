@@ -8,7 +8,6 @@
 <br>
 
 <!-- Motivation Section -->
-### 🚀 Motivasi
 
 Saya belajar IT karena saya percaya bahwa **teknologi adalah masa depan**.  
 Mulai dari menyelesaikan masalah dunia nyata hingga membangun proyek-proyek inovatif,  
