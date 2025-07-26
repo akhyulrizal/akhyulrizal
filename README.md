@@ -29,9 +29,5 @@
   <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26" />
   <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6" />
   <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-
-  <br>
-  <p style="color:#00ff88;"><strong>I'm currently exploring Web Development & AI</strong></p>
-
 </div>
 
