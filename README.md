@@ -17,12 +17,12 @@
 <br>
 
 <!-- Programming Skills Title -->
-<h3 align="left">
-  <img src="https://img.icons8.com/color/48/000000/laptop--v1.png" width="25"/> 
+<h4 align="left">
+  <img src="https://img.icons8.com/color/48/000000/laptop--v1.png" width="22"/> 
   <span style="background: linear-gradient(to right, #ff0000, #00ff00, #0000ff); -webkit-background-clip: text; color: transparent;">
     Programming Skills
   </span>
-</h3>
+</h4>
 
 <!-- Skill Icons -->
 <p align="left">
@@ -36,7 +36,7 @@
 <br><br>
 
 <!-- Contact Me Section -->
-<h3 align="left">📬 Contact Me</h3>
+<h4 align="left">📬 Contact Me</h4>
 
 <p align="left">
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank" title="LinkedIn">
