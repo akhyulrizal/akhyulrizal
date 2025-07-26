@@ -5,39 +5,17 @@
 
   <br><br>
 
-  <!-- Skills Title -->
+  <!-- My Skills Title -->
   <h3><strong>🚀 <u>MY SKILLS</u></strong></h3>
 
-  <!-- Skills Icons -->
+  <!-- Only Python Skill -->
   <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" />
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48" alt="Python" />
   </a>
 
   <br><br>
 
-  <!-- Aesthetic GitHub Stats -->
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=akhyulrizal&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&rank_icon=percentile" width="47%" />
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=akhyulrizal&theme=tokyonight&hide_border=true&border_radius=12" width="47%" />
-  </div>
-
-  <br>
-
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akhyulrizal&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" width="40%" />
-
-  <br><br>
-
-  <!-- Quote or Motivation -->
+  <!-- Motivation Line -->
   <b><i style="color:#00ff88;">every connection helps me grow — thank you for being here.</i></b>
 
   <br><br>
