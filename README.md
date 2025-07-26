@@ -8,15 +8,15 @@
 <br>
 
 <!-- Motivation Section -->
-### 🚀 Motivation
+### 🚀 Motivasi
 
-I'm passionate about learning IT because I believe **technology shapes the future**.  
-From solving real-world problems to building innovative projects,  
-I'm excited to keep growing, failing, and improving — one line of code at a time.
+Saya belajar IT karena saya percaya bahwa **teknologi adalah masa depan**.  
+Mulai dari menyelesaikan masalah dunia nyata hingga membangun proyek-proyek inovatif,  
+saya bersemangat untuk terus tumbuh, gagal, dan berkembang — satu baris kode setiap harinya.
 
-  > 💡 *"Everyone starts as a beginner. Keep learning, and your future self will thank you."*
+> 💡 *"Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."*
 
-Let’s build something awesome!
+Mari bangun sesuatu yang keren bersama!
 
 <br>
 
