@@ -12,7 +12,7 @@
 
 <br>
 
-<!-- Programming Skills Title (Left Aligned, RGB Gradient) -->
+<!-- Programming Skills Title (Left Aligned, RGB Gradient Style Text) -->
 <p align="left">
   <strong>
     <span style="background: linear-gradient(to right, #ff0000, #00ff00, #0000ff); -webkit-background-clip: text; color: transparent;">
@@ -21,22 +21,22 @@
   </strong>
 </p>
 
-<!-- Skills Icons (Left Aligned) -->
+<!-- Smaller Skill Icons (Left Aligned) -->
 <p align="left">
   <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" alt="Python" />
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30" alt="Python" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" alt="HTML5" />
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30" alt="HTML5" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" alt="CSS3" />
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" alt="CSS3" />
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" alt="JavaScript" />
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30" alt="JavaScript" />
   </a>
   <a href="https://www.java.com/" target="_blank" title="Java">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" alt="Java" />
+    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30" alt="Java" />
   </a>
 </p>
 
