@@ -22,16 +22,11 @@
 
   <br><br>
 
-  <!-- Skills -->
-  <h3 style="color:#00ff88;">⚙️ Tech Stack</h3>
-  <p>
-    🐍 Python &nbsp;|&nbsp;
-    🤖 Machine Learning &nbsp;|&nbsp;
-    📊 Data Science &nbsp;|&nbsp;
-    🧠 Deep Learning &nbsp;|&nbsp;
-    🛠️ TensorFlow, Scikit-learn, PyTorch &nbsp;|&nbsp;
-    💻 SQL & Pandas &nbsp;|&nbsp;
-    📈 Matplotlib & Seaborn
-  </p>
+  <!-- Skills with Logos -->
+  <h3 style="color:#00ff88;">⚙️ Tech Skills</h3>
+
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 
 </div>
