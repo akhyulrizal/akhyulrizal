@@ -25,10 +25,13 @@
   <!-- Skills Logos -->
   <h3 style="color:#00ff88;">🚀 Tech Arsenal</h3>
 
-  <!-- Python Logo -->
+  <!-- Python -->
   <img src="https://img.icons8.com/color/48/000000/python.png" width="40" title="Python" style="margin: 0 10px;" />
 
-  <!-- SQL Logo (asli dari Wikimedia) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.svg" width="40" title="SQL" style="margin: 0 10px;" />
+  <!-- HTML -->
+  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" title="HTML5" style="margin: 0 10px;" />
+
+  <!-- CSS -->
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" title="CSS3" style="margin: 0 10px;" />
 
 </div>
