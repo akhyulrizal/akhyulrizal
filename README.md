@@ -16,7 +16,7 @@ saya bersemangat untuk terus tumbuh, gagal, dan berkembang — satu baris kode s
 
 > 💡 *"Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."*
 
-Mari bangun sesuatu yang keren bersama!
+Ayo Belajar Bersama
 
 <br>
 
