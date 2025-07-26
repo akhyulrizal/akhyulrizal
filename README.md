@@ -10,7 +10,7 @@
 <!-- Motivation Section -->
 <p align="center">
   <i>
-    💡 Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih.
+     Think logically, create without limits — because every line of code is a step toward the future.
   </i>
 </p>
 
