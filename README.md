@@ -5,10 +5,6 @@
 
   <br><br>
 
-  <p style="color:#00ff88; font-size: 18px;">every connection helps me grow — thank you for being here.</p>
-
-  <br>
-
   <!-- My Skills Title -->
   <h3>
     <span style="color:#00ff88; font-size: 22px;">
@@ -32,14 +28,12 @@
 
   <br><br>
 
-  <!-- Social Media Title -->
-  <h3>
-    <span style="color:#00ff88; font-size: 22px;">
-      🔗 <u><strong>CONNECT WITH ME</strong></u>
-    </span>
-  </h3>
+  <!-- Motivational Line -->
+  <p style="color:#00ff88; font-size: 18px;">every connection helps me grow — thank you for being here.</p>
 
-  <!-- Social Media Icons -->
+  <br>
+
+  <!-- Social Media Icons (No Heading) -->
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank">
     <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="40" style="margin: 0 10px;" />
   </a>
