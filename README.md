@@ -9,7 +9,7 @@
 
   <br>
 
-  <!-- Social Media Icons (without GitHub) -->
+  <!-- Social Media Icons -->
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank">
     <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="40" style="margin: 0 10px;" />
   </a>
@@ -19,5 +19,19 @@
   <a href="mailto:akhyulinfo@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/D14836/gmail-new.png" width="40" style="margin: 0 10px;" />
   </a>
+
+  <br><br>
+
+  <!-- Skills -->
+  <h3 style="color:#00ff88;">⚙️ Tech Stack</h3>
+  <p>
+    🐍 Python &nbsp;|&nbsp;
+    🤖 Machine Learning &nbsp;|&nbsp;
+    📊 Data Science &nbsp;|&nbsp;
+    🧠 Deep Learning &nbsp;|&nbsp;
+    🛠️ TensorFlow, Scikit-learn, PyTorch &nbsp;|&nbsp;
+    💻 SQL & Pandas &nbsp;|&nbsp;
+    📈 Matplotlib & Seaborn
+  </p>
 
 </div>
