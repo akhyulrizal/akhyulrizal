@@ -109,30 +109,30 @@ _"In data we trust, but we must verify"_ 📊
 ## 🚀 Highlighted Projects
 
 ### 1. [Predictive Maintenance System](https://github.com/akhyulrizal/predictive-maintenance)
-> Machine learning model that predicts equipment failures using sensor data  
-> - 🔧 Techniques: Time-series analysis, Random Forests, Feature Engineering  
-> - 📈 Results: 92% prediction accuracy, reduced downtime by 40%  
+> Machine learning model that predicts equipment failures using sensor data
+> - 🔧 Techniques: Time-series analysis, Random Forests, Feature Engineering
+> - 📈 Results: 92% prediction accuracy, reduced downtime by 40%
 > - 🛠️ Tools: Python, Scikit-learn, XGBoost, Dash
 
 ### 2. [Sentiment Analysis for Product Reviews](https://github.com/akhyulrizal/sentiment-analysis)
-> NLP system that classifies customer sentiment from e-commerce reviews  
-> - 🗣️ Techniques: BERT embeddings, LSTM networks, Attention mechanisms  
-> - 📊 Results: 89% classification accuracy, deployed as API endpoint  
+> NLP system that classifies customer sentiment from e-commerce reviews
+> - 🗣️ Techniques: BERT embeddings, LSTM networks, Attention mechanisms
+> - 📊 Results: 89% classification accuracy, deployed as API endpoint
 > - 🧰 Tools: TensorFlow, HuggingFace Transformers, Flask
 
 ### 3. [COVID-19 Data Visualization Dashboard](https://github.com/akhyulrizal/covid-dashboard)
-> Interactive dashboard tracking pandemic metrics across countries  
-> - 🌍 Features: Geospatial visualization, Time-series forecasting  
-> - 📱 Output: Real-time web dashboard with interactive controls  
+> Interactive dashboard tracking pandemic metrics across countries
+> - 🌍 Features: Geospatial visualization, Time-series forecasting
+> - 📱 Output: Real-time web dashboard with interactive controls
 > - 🛠️ Tools: Plotly Dash, Pandas, Heroku
 
 ---
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhyulrizal)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akhyulrizal)  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhyulrizal)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhyulrizal)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/akhyulrizal)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/akhyulrizal)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akhyul.rizal@university.edu)
 
 ---
