@@ -26,12 +26,14 @@
     <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" style="margin: 0 12px;" />
   </a>
 
-  <!-- Motivational Line (closer to socials) -->
-  <p style="color:#00ff88; font-size: 18px; margin-top: 30px; margin-bottom: 10px;">
-    every connection helps me grow — thank you for being here.
-  </p>
+  <br><br>
 
-  <!-- Social Media Icons -->
+  <!-- Motivational Line -->
+  <p style="color:#00ff88; font-size: 18px;">every connection helps me grow — thank you for being here.</p>
+
+  <br>
+
+  <!-- Social Media Icons (No Heading) -->
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank">
     <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="40" style="margin: 0 10px;" />
   </a>
