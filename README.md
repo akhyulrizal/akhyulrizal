@@ -28,7 +28,7 @@
   <!-- Python Logo -->
   <img src="https://img.icons8.com/color/48/000000/python.png" width="40" style="margin: 0 10px;" title="Python" />
 
-  <!-- SQL Text -->
-  <span style="color: #00ff88; font-size: 20px; font-family: Fira Code; margin: 0 10px;">SQL</span>
+  <!-- SQL Logo (teks hijau neon) -->
+  <img src="https://img.icons8.com/ios-filled/50/00ff88/sql.png" width="40" style="margin: 0 10px;" title="SQL" />
 
 </div>
