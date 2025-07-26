@@ -1,22 +1,14 @@
-<p align="center">
-  Hai, saya <strong>Akhyul Rizal</strong> 👋  
-  Mahasiswa Sistem Informasi yang sedang mendalami <strong>Artificial Intelligence</strong> dan <strong>Machine Learning</strong>.  
-  Saya suka ngulik proyek-proyek kecil dengan <strong>Python</strong> dan semangat belajar hal-hal baru di dunia teknologi.  
-  Terima kasih sudah mampir ke profil saya! 🚀
-</p>
+<div align="center">
+
+  <!-- Animasi Typing -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=450&lines=Hai%2C+saya+Akhyul+Rizal;Mahasiswa+Sistem+Informasi;Fokus+di+AI+dan+Machine+Learning" alt="Typing SVG" />
+
+</div>
+
+<br>
 
 <p align="center">
-  <a href="https://github.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-6e40c9?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://linkedin.com/in/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://instagram.com/yourusername" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Email-itsvgin@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="email">
+  Saya adalah mahasiswa <strong>Sistem Informasi</strong> yang sedang mendalami dunia <strong>Artificial Intelligence</strong> dan <strong>Machine Learning</strong>.  
+  Saat ini saya sedang fokus belajar <strong>Python</strong> dan mengembangkan proyek-proyek kecil untuk mengasah kemampuan.  
+  Terima kasih sudah mampir ke profil GitHub saya! 🚀
 </p>
