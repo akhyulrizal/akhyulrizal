@@ -10,11 +10,13 @@
 <!-- Motivation Section -->
 <p align="center">
   <sub>
-    Saya belajar IT karena saya percaya bahwa <strong>teknologi adalah masa depan</strong>.<br>
-    Mulai dari menyelesaikan masalah dunia nyata hingga membangun proyek-proyek inovatif,<br>
-    saya bersemangat untuk terus tumbuh, gagal, dan berkembang — satu baris kode setiap harinya.<br><br>
-    💡 <i>"Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."</i><br><br>
-    <strong>Ayo Belajar Bersama!</strong>
+    <i>
+      Saya belajar IT karena saya percaya bahwa <strong>teknologi adalah masa depan</strong>.<br>
+      Mulai dari menyelesaikan masalah dunia nyata hingga membangun proyek-proyek inovatif,<br>
+      saya bersemangat untuk terus tumbuh, gagal, dan berkembang — satu baris kode setiap harinya.<br><br>
+      💡 "Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."<br><br>
+      <strong>Ayo Belajar Bersama!</strong>
+    </i>
   </sub>
 </p>
 
@@ -50,9 +52,8 @@
 
 <br><br><br>
 
+<!-- Social Media Icons -->
 <div align="center">
-
-  <!-- Social Media Icons -->
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="20" />
   </a>
@@ -62,5 +63,4 @@
   <a href="mailto:akhyulinfo@gmail.com" target="_blank" title="Email">
     <img src="https://img.icons8.com/fluency/48/D14836/gmail-new.png" width="20" />
   </a>
-
 </div>
