@@ -22,14 +22,13 @@
 
   <br><br>
 
-  <!-- Skills with Logos Only -->
+  <!-- Skills Logos Only -->
   <h3 style="color:#00ff88;">🚀 Tech Arsenal</h3>
 
-  <a href="#" target="_blank">
-    <img src="https://img.icons8.com/color/48/000000/python.png" width="40" style="margin: 0 10px;" title="Python" />
-  </a>
-  <a href="#" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/00ff88/sql.png" width="40" style="margin: 0 10px;" title="SQL" />
-  </a>
+  <!-- Python Logo -->
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" style="margin: 0 10px;" title="Python" />
+
+  <!-- SQL Alternative Logo (Database Icon) -->
+  <img src="https://img.icons8.com/ios-filled/50/00ff88/database.png" width="40" style="margin: 0 10px;" title="SQL / Database" />
 
 </div>
