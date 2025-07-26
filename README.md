@@ -14,7 +14,7 @@ I'm passionate about learning IT because I believe **technology shapes the futur
 From solving real-world problems to building innovative projects,  
 I'm excited to keep growing, failing, and improving — one line of code at a time.
 
-> 💡 *"Everyone starts as a beginner. Keep learning, and your future self will thank you."*
+  > 💡 *"Everyone starts as a beginner. Keep learning, and your future self will thank you."*
 
 Let’s build something awesome!
 
