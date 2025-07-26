@@ -12,22 +12,23 @@
 
 <br>
 
-<!-- Skills Icons Row (Left Aligned, No Title) -->
+<!-- Programming Skills Section (Left Aligned) -->
+<p align="left">
+  <strong><u>Programming Skills</u></strong>
+</p>
+
 <p align="left">
   <a href="https://www.python.org/" target="_blank" title="Python">
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" alt="Python" />
   </a>
-  <a href="https://numpy.org/" target="_blank" title="NumPy">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="40" alt="NumPy" />
-  </a>
-  <a href="https://pandas.pydata.org/" target="_blank" title="Pandas">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="40" alt="Pandas" />
-  </a>
-  <a href="https://www.metasploit.com/" target="_blank" title="Metasploit">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Metasploit_logo.png" width="40" alt="Metasploit" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" alt="JavaScript" />
   </a>
   <a href="https://www.java.com/" target="_blank" title="Java">
     <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="40" alt="Java" />
+  </a>
+  <a href="https://www.rust-lang.org/" target="_blank" title="Rust">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" width="40" alt="Rust" />
   </a>
 </p>
 
