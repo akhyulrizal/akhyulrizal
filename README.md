@@ -9,54 +9,43 @@
 
 <!-- Motivation Section -->
 <p align="center">
-  <sub>
-    <i>
-      💡 "Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."<br><br>
-    </i>
-  </sub>
+  <i>
+    💡 <b><q>Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih.</q></b>
+  </i>
+</p>
+
+<br>
+
+<!-- Contact Me Section -->
+<h3 align="left">📬 Contact Me</h3>
+
+<p align="left">
+  <a href="https://linkedin.com/in/akhyulrizal" target="_blank" title="LinkedIn">
+    <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="30"/>
+  </a>
+  <a href="https://instagram.com/akhyulrizal" target="_blank" title="Instagram">
+    <img src="https://img.icons8.com/fluency/48/E4405F/instagram-new.png" width="30"/>
+  </a>
+  <a href="mailto:akhyulinfo@gmail.com" target="_blank" title="Email">
+    <img src="https://img.icons8.com/fluency/48/D14836/gmail-new.png" width="30"/>
+  </a>
 </p>
 
 <br>
 
 <!-- Programming Skills Title -->
-<p align="left">
-  <strong>
-    <span style="background: linear-gradient(to right, #ff0000, #00ff00, #0000ff); -webkit-background-clip: text; color: transparent;">
-      Programming Skills:
-    </span>
-  </strong>
-</p>
+<h3 align="left">
+  <img src="https://img.icons8.com/color/48/000000/laptop--v1.png" width="25"/> 
+  <span style="background: linear-gradient(to right, #ff0000, #00ff00, #0000ff); -webkit-background-clip: text; color: transparent;">
+    Programming Skills
+  </span>
+</h3>
 
 <!-- Skill Icons (Smaller) -->
 <p align="left">
-  <a href="https://www.python.org/" target="_blank" title="Python">
-    <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" title="HTML5">
-    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" title="CSS3">
-    <img src="https://img.icons8.com/color/48/000000/css3.png" width="30" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="JavaScript">
-    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30" />
-  </a>
-  <a href="https://www.java.com/" target="_blank" title="Java">
-    <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30" />
-  </a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" width="30" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30" /></a>
+  <a href="https://www.java.com/" target="_blank"><img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" width="30" /></a>
 </p>
-
-<br><br><br>
-
-<!-- Social Media Icons -->
-<div align="center">
-  <a href="https://linkedin.com/in/akhyulrizal" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="20" />
-  </a>
-  <a href="https://instagram.com/akhyulrizal" target="_blank" title="Instagram">
-    <img src="https://img.icons8.com/fluency/48/E4405F/instagram-new.png" width="20" />
-  </a>
-  <a href="mailto:akhyulinfo@gmail.com" target="_blank" title="Email">
-    <img src="https://img.icons8.com/fluency/48/D14836/gmail-new.png" width="20" />
-  </a>
-</div>
