@@ -1,14 +1,49 @@
-<div align="center">
+<!-- GitHub Profile README -->
 
-  <!-- Animasi Typing -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=450&lines=Hai%2C+saya+Akhyul+Rizal;Mahasiswa+Sistem+Informasi;Fokus+di+AI+dan+Machine+Learning" alt="Typing SVG" />
+<div align="center" style="background-color:#000; padding: 30px; border-radius: 12px;">
+  
+  <h1 style="color:#00ff99; font-family: monospace;">
+    <span id="typed-text"></span><span id="cursor">|</span>
+  </h1>
+
+  <br/>
+
+  <h3 style="color:#00ff99;">Can you help us to grow by sharing?</h3>
+
+  <br/>
+
+  <!-- Social Icons -->
+  <a href="https://github.com/USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="40" />
+  </a>
+  <a href="https://linkedin.com/in/USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" />
+  </a>
+  <a href="https://instagram.com/USERNAME" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Email -->
+  <p style="color:#ccc; font-size: 16px;">
+    📧 myakhyulr@gmail.com
+  </p>
 
 </div>
 
-<br>
+<!-- Typing Animation -->
+<script>
+  const text = "Hi i'm Akhyul Rizal 👋";
+  let i = 0;
 
-<p align="center">
-  Saya adalah mahasiswa <strong>Sistem Informasi</strong> yang sedang mendalami dunia <strong>Artificial Intelligence</strong> dan <strong>Machine Learning</strong>.  
-  Saat ini saya sedang fokus belajar <strong>Python</strong> dan mengembangkan proyek-proyek kecil untuk mengasah kemampuan.  
-  Terima kasih sudah mampir ke profil GitHub saya! 🚀
-</p>
+  function typeWriter() {
+    if (i < text.length) {
+      document.getElementById("typed-text").innerHTML += text.charAt(i);
+      i++;
+      setTimeout(typeWriter, 100);
+    }
+  }
+
+  window.onload = typeWriter;
+</script>
