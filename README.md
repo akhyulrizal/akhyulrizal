@@ -23,7 +23,7 @@
   <br><br>
 
   <!-- Skills Logos -->
-  <h3 style="color:#00ff88;">🚀 Tech Arsenal</h3>
+  <h3 style="color:#00ff88;">🧠 My Skills</h3>
 
   <!-- Python -->
   <img src="https://img.icons8.com/color/48/000000/python.png" width="40" title="Python" style="margin: 0 10px;" />
