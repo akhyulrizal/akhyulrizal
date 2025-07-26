@@ -35,8 +35,3 @@
 
 </div>
 
----
-
-### 🐍 GitHub Snake
-
-![snake gif](https://github.com/akhyulrizal/akhyulrizal/blob/output/github-contribution-grid-snake.svg)
