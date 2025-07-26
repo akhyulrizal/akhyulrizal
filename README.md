@@ -1,17 +1,26 @@
 <div align="center">
 
-  <!-- Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Jamet;I'm+Learning+Machine+Learning;I'm+Exploring+AI+and+Data+Science;Welcome+to+my+GitHub!" alt="Typing SVG" />
+  <!-- Typing Text with About Me -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;A+Machine+Learning+and+AI+Enthusiast;Student+who+loves+Data+and+Code;Currently+exploring+ML+%2B+Software+Dev;Let's+connect+and+grow+together!" alt="Typing SVG" />
+
+  <br><br>
+
+  <p style="color:#00ff88; font-size: 18px;">every connection helps me grow — thank you for being here.</p>
 
   <br>
 
-  <!-- About Me -->
-  <p style="color:#00ff88; font-size: 16px; max-width: 600px;">
-    Saya seorang mahasiswa yang tertarik pada <strong>Kecerdasan Buatan</strong> dan <strong>Machine Learning</strong>.  
-    Saya senang belajar hal baru, membangun proyek, dan mengeksplorasi solusi berbasis data.
-  </p>
+  <!-- Social Media Icons -->
+  <a href="https://linkedin.com/in/akhyulrizal" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="40" style="margin: 0 10px;" />
+  </a>
+  <a href="https://instagram.com/akhyulrizal" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/E4405F/instagram-new.png" width="40" style="margin: 0 10px;" />
+  </a>
+  <a href="mailto:akhyulinfo@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/D14836/gmail-new.png" width="40" style="margin: 0 10px;" />
+  </a>
 
-  <br>
+  <br><br>
 
   <!-- My Skills Title -->
   <h3>
@@ -33,10 +42,5 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48" style="margin: 0 12px;" />
   </a>
-
-  <br><br>
-
-  <!-- Contribution Snake Animation -->
-  ![snake gif](https://github.com/akhyulrizal/akhyulrizal/blob/output/github-contribution-grid-snake.svg)
 
 </div>
