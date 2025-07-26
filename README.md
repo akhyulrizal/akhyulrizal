@@ -5,6 +5,11 @@
 
   <br><br>
 
+  <!-- Motivation Line -->
+  <b><i style="color:#00ff88;">every connection helps me grow — thank you for being here.</i></b>
+
+  <br><br>
+
   <!-- My Skills Title -->
   <h3><strong>🚀 <u>MY SKILLS</u></strong></h3>
 
@@ -15,20 +20,15 @@
 
   <br><br>
 
-  <!-- Motivation Line -->
-  <b><i style="color:#00ff88;">every connection helps me grow — thank you for being here.</i></b>
-
-  <br><br>
-
-  <!-- Social Media Icons -->
+  <!-- Social Media Icons (Smaller Size) -->
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank" title="LinkedIn">
-    <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="40" />
+    <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="30" />
   </a>
   <a href="https://instagram.com/akhyulrizal" target="_blank" title="Instagram">
-    <img src="https://img.icons8.com/fluency/48/E4405F/instagram-new.png" width="40" />
+    <img src="https://img.icons8.com/fluency/48/E4405F/instagram-new.png" width="30" />
   </a>
   <a href="mailto:akhyulinfo@gmail.com" target="_blank" title="Email">
-    <img src="https://img.icons8.com/fluency/48/D14836/gmail-new.png" width="40" />
+    <img src="https://img.icons8.com/fluency/48/D14836/gmail-new.png" width="30" />
   </a>
 
 </div>
