@@ -22,11 +22,14 @@
 
   <br><br>
 
-  <!-- Skills with Logos -->
+  <!-- Skills with Logos Only -->
   <h3 style="color:#00ff88;">🚀 Tech Arsenal</h3>
 
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff88" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff88" />
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python.png" width="40" style="margin: 0 10px;" title="Python" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/00ff88/sql.png" width="40" style="margin: 0 10px;" title="SQL" />
+  </a>
 
 </div>
