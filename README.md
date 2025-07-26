@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;I'm+a+Machine+Learning+Engineer;I'm+a+Software+Engineer;I'm+a+Data+Scientist;I'm+into+Web+Development" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;I'm+a+Machine+Learning+Engineer;I'm+a+Software+Engineer;I'm+a+Data+Scientist" alt="Typing SVG" />
 
   <br><br>
 
@@ -22,19 +22,21 @@
 
   <br><br>
 
-  <!-- Skills Logos -->
-  <h3 style="color:#00ff88;">🧠 My Skills</h3>
+  <!-- Skills with Logos -->
+  <h3 style="color:#00ff88;">🛠️ My Skills</h3>
 
-  <!-- Python -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" title="Python" style="margin: 0 10px;" />
+  <img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/HTML5-ffffff?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-ffffff?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
 
-  <!-- HTML -->
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="40" title="HTML5" style="margin: 0 10px;" />
-
-  <!-- CSS -->
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="40" title="CSS3" style="margin: 0 10px;" />
-
-  <!-- JavaScript -->
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="40" title="JavaScript" style="margin: 0 10px;" />
+  <br>
+  <p style="color:#00ff88;"><strong>I'm currently exploring Web Development & AI</strong></p>
 
 </div>
+
+---
+
+### 🐍 GitHub Snake
+
+![snake gif](https://github.com/akhyulrizal/akhyulrizal/blob/output/github-contribution-grid-snake.svg)
