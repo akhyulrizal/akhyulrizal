@@ -5,10 +5,9 @@
 
   <br><br>
 
-  <!-- Raleway Font Banner -->
-  <img src="https://readme-typing-svg.demolab.com?font=Raleway&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Every+connection+helps+me+grow+—+thank+you+for+being+here." alt="Connection Text" />
+  <p style="color:#00ff88; font-size: 18px;">every connection helps me grow — thank you for being here.</p>
 
-  <br><br>
+  <br>
 
   <!-- Social Media Icons -->
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank">
@@ -23,13 +22,25 @@
 
   <br><br>
 
-  <!-- Skills Title -->
-  <h3 style="color:#00ff88; font-family: 'Raleway', sans-serif;">🛠️ My Skills</h3>
+  <!-- My Skills Title -->
+  <h3>
+    <span style="color:#00ff88; font-size: 22px;">
+      🚀 <u><strong>MY SKILLS</strong></u>
+    </span>
+  </h3>
 
-  <!-- Skill Logos Only -->
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" alt="Python" style="margin: 0 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" alt="HTML5" style="margin: 0 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" style="margin: 0 10px;" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" alt="JavaScript" style="margin: 0 10px;" />
+  <!-- Skills Icons Only -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="48" style="margin: 0 12px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="48" style="margin: 0 12px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" width="48" style="margin: 0 12px;" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="48" style="margin: 0 12px;" />
+  </a>
 
 </div>
