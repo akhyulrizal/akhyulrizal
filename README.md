@@ -5,7 +5,7 @@
 
   <br><br>
 
-  <p style="color:#00ff88; font-size: 18px;">Every connection helps me grow — thank you for being here.</p>
+  <p style="color:#00ff88; font-size: 18px;">every connection helps me grow — thank you for being here.</p>
 
   <br>
 
