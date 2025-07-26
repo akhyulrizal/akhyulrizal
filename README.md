@@ -18,7 +18,7 @@
 
 <!-- Programming Skills Title -->
 <h4 align="left">
-  <img src="https://img.icons8.com/color/48/000000/laptop--v1.png" width="22"/> 
+  <img src= width="22"/> 
   <span style="background: linear-gradient(to right, #ff0000, #00ff00, #0000ff); -webkit-background-clip: text; color: transparent;">Programming Skills
   </span>
 </h4>
