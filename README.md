@@ -10,8 +10,8 @@
 
   <br><br>
 
-  <!-- My Skills Title -->
-  <h3><strong>🚀 <u>MY SKILLS</u></strong></h3>
+  <!-- Skills Title (Smaller and Renamed) -->
+  <h4><strong><u>Skills</u></strong></h4>
 
   <!-- Only Python Skill -->
   <a href="https://www.python.org/" target="_blank" title="Python">
@@ -20,7 +20,7 @@
 
   <br><br>
 
-  <!-- Social Media Icons (Smaller Size) -->
+  <!-- Social Media Icons (Small Size) -->
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank" title="LinkedIn">
     <img src="https://img.icons8.com/fluency/48/0A66C2/linkedin.png" width="30" />
   </a>
