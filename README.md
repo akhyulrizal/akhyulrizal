@@ -8,14 +8,15 @@
 <br>
 
 <!-- Motivation Section -->
-
-Saya belajar IT karena saya percaya bahwa teknologi adalah masa depan.  
-Mulai dari menyelesaikan masalah dunia nyata hingga membangun proyek-proyek inovatif,  
-saya bersemangat untuk terus tumbuh, gagal, dan berkembang — satu baris kode setiap harinya.
-
-> 💡 *"Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."*
-
-Ayo Belajar Bersama
+<p align="center">
+  <sub>
+    Saya belajar IT karena saya percaya bahwa <strong>teknologi adalah masa depan</strong>.<br>
+    Mulai dari menyelesaikan masalah dunia nyata hingga membangun proyek-proyek inovatif,<br>
+    saya bersemangat untuk terus tumbuh, gagal, dan berkembang — satu baris kode setiap harinya.<br><br>
+    💡 <i>"Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."</i><br><br>
+    <strong>Ayo Belajar Bersama!</strong>
+  </sub>
+</p>
 
 <br>
 
