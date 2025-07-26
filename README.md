@@ -23,10 +23,10 @@
   <br><br>
 
   <!-- Skills with Logos -->
-  <h3 style="color:#00ff88;">⚙️ Tech Skills</h3>
+  <h3 style="color:#00ff88;">🚀 Tech Arsenal</h3>
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00ff88" />
+  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00ff88" />
 
 </div>
