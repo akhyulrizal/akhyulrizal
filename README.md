@@ -16,7 +16,7 @@
   <a href="https://instagram.com/yourusername" target="_blank">
     <img src="https://img.icons8.com/fluency/48/E4405F/instagram-new.png" width="40" style="margin: 0 10px;" />
   </a>
-  <a href="mailto:itsvgin@gmail.com" target="_blank">
+  <a href="akhyulinfo@gmail.com" target="_blank">
     <img src="https://img.icons8.com/fluency/48/D14836/gmail-new.png" width="40" style="margin: 0 10px;" />
   </a>
 
