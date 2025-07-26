@@ -26,9 +26,9 @@
   <h3 style="color:#00ff88;">🚀 Tech Arsenal</h3>
 
   <!-- Python Logo -->
-  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" style="margin: 0 10px;" title="Python" />
+  <img src="https://img.icons8.com/color/48/000000/python.png" width="40" title="Python" style="margin: 0 10px;" />
 
-  <!-- SQL Logo (teks hijau neon) -->
-  <img src="https://img.icons8.com/ios-filled/50/00ff88/sql.png" width="40" style="margin: 0 10px;" title="SQL" />
+  <!-- SQL Logo (asli dari Wikimedia) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.svg" width="40" title="SQL" style="margin: 0 10px;" />
 
 </div>
