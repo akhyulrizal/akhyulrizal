@@ -17,7 +17,7 @@
 <br>
 
 <!-- Programming Skills Title -->
-<h4 align="left">Programming Skills
+<h4 align="left">Programming Skills :
   </span>
 </h4>
 
@@ -33,7 +33,7 @@
 <br><br>
 
 <!-- Contact Me Section -->
-<h4 align="left">Contact Me</h4>
+<h4 align="left">Contact Me :</h4>
 
 <p align="left">
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank" title="LinkedIn">
