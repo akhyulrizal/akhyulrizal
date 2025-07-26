@@ -22,6 +22,9 @@
 
   <br><br>
 
+  <!-- My Skills Title -->
+  <h3 style="color:#00ff88;">🛠️ My Skills</h3>
+
   <!-- Skills Icons Only -->
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/python--v1.png" width="40" style="margin: 0 10px;" />
