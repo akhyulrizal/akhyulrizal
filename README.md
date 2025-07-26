@@ -9,12 +9,11 @@
 
 <!-- Motivation Section -->
 
-Saya belajar IT karena saya percaya bahwa **teknologi adalah masa depan**.  
+Saya belajar IT karena saya percaya bahwa teknologi adalah masa depan.  
 Mulai dari menyelesaikan masalah dunia nyata hingga membangun proyek-proyek inovatif,  
 saya bersemangat untuk terus tumbuh, gagal, dan berkembang — satu baris kode setiap harinya.
 
 > 💡 *"Semua orang hebat dulunya juga pemula. Terus belajar, dan dirimu di masa depan akan berterima kasih."*
-
 Ayo Belajar Bersama
 
 <br>
