@@ -44,7 +44,4 @@
   <a href="mailto:akhyulinfo@gmail.com" target="_blank" title="Email">
     <img src="https://img.icons8.com/fluency/48/D14836/gmail-new.png" width="20"/>
   </a>
-  <a href="https://www.tiktok.com/@akhyulrizal" target="_blank" title="TikTok">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/TikTok_logo.svg" width="20"/>
-  </a>
 </p>
