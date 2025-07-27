@@ -31,7 +31,7 @@
 <br><br>
 
 <!-- Contact Me Section -->
-<h4 align="left">Contact Me :</h4>
+<h4 align="left">Find Me Online :</h4>
 
 <p align="left">
   <a href="https://linkedin.com/in/akhyulrizal" target="_blank" title="LinkedIn">
