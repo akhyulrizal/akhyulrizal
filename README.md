@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;Informatics+student+interested+in+ML+%26+AI;Currently+learning+Python+%26+Data+Science;Building+projects+to+deepen+my+understanding;Passionate+about+technology+%F0%9F%94%A5;Let's+connect+and+grow+together+%F0%9F%8C%9F" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;Cyber+Security+Enthusiast+%F0%9F%94%90;Informatics+Student+from+Indonesia;Learning+Ethical+Hacking+%26+Network+Security;Exploring+Kali+Linux+%7C+Burp+Suite+%7C+Wireshark;Passionate+about+Digital+Defense+%F0%9F%92%AA;Stay+Safe+Stay+Secure+%F0%9F%94%91" alt="Typing SVG" />
 
 </div>
 
