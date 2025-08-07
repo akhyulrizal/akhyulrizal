@@ -10,7 +10,7 @@
 <!-- Motivation Section -->
 <p align="center">
   <i>
-     Hi, I'm Akhyul Rizal — a university student passionate about Machine Learning and Artificial Intelligence. Currently learning Python, exploring data science, and building small projects to deepen my understanding of AI.
+     I’m Akhyul Rizal, a university student interested in the world of Cyber Security. I’m currently learning ethical hacking and network security.
   </i>
 </p>
 
