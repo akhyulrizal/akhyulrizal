@@ -1,14 +1,14 @@
 <div align="center">
 
-  <!-- Typing Text -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;Curious+about+Cyber+Security;Learning+Ethical+Hacking+%26+Network+Security;Protecting+Digital+Systems" alt="Typing SVG" />
+  <!-- Typing Text (font size bigger) -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;Curious+about+Cyber+Security;Learning+Ethical+Hacking+%26+Network+Security;Protecting+Digital+Systems" alt="Typing SVG" />
 
 </div>
 
 <br>
 
-<!-- Motivation Section -->
-<p align="center">
+<!-- Motivation Section (font size smaller) -->
+<p align="center" style="font-size:16px;">
   <i>
      Hi! I’m Akhyul Rizal, passionate about Cyber Security and constantly learning ethical hacking and network security. I love exploring tools like Kali Linux, Burp Suite, and Wireshark, and I’m dedicated to understanding how digital systems work to protect them from threats. Stay curious, stay secure!
   </i>
@@ -17,19 +17,17 @@
 <br>
 
 <!-- Programming Skills Title -->
-<h4 align="left">Programming Skills :
-  </span>
-</h4>
+<h4 align="left">Programming Skills :</h4>
 
 <!-- Skill Icons -->
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.icons8.com/color/48/000000/html-5--v1.png" width="30" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" width="30" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript--v1.png" width="30" /></a>
-<a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30" /></a>
+  <a href="https://www.python.org/" target="_blank"><img src="https://img.icons8.com/color/48/000000/python--v1.png" width="30" /></a>
+</p>
 
 <br><br>
-
 
 <!-- Contact Me Section -->
 <h4 align="left">Find Me Online :</h4>
