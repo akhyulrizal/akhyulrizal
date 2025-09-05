@@ -10,7 +10,7 @@
 <!-- Motivation Section -->
 <p align="center">
   <i>
-     I’m Akhyul Rizal, a university student interested in the world of Cyber Security. I’m currently learning ethical hacking and network security.
+     Hi! I’m Akhyul Rizal, passionate about Cyber Security and constantly learning ethical hacking and network security. I love exploring tools like Kali Linux, Burp Suite, and Wireshark, and I’m dedicated to understanding how digital systems work to protect them from threats. Stay curious, stay secure!
   </i>
 </p>
 
