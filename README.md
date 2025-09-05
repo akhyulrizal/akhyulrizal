@@ -8,7 +8,7 @@
 <br>
 
 <!-- Motivation Section (font size smaller) -->
-<p align="center" style="font-size:16px;">
+<p align="center" style="font-size:12px;">
   <i>
      Hi! I’m Akhyul Rizal, passionate about Cyber Security and constantly learning ethical hacking and network security. I love exploring tools like Kali Linux, Burp Suite, and Wireshark, and I’m dedicated to understanding how digital systems work to protect them from threats. Stay curious, stay secure!
   </i>
