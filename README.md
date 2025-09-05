@@ -1,14 +1,14 @@
 <div align="center">
 
   <!-- Typing Text (font size bigger) -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;Curious+about+Cyber+Security;Learning+Ethical+Hacking+%26+Network+Security;Protecting+Digital+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=00FF88&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Akhyul+Rizal;Curious+about+Cyber+Security;Learning+Ethical+Hacking+%26+Network+Security;Protecting+Digital+Systems" alt="Typing SVG" />
 
 </div>
 
 <br>
 
 <!-- Motivation Section (font size smaller) -->
-<p align="center" style="font-size:8px;">
+<p align="center" style="font-size:10px;">
   <i>
      Hi! I’m Akhyul Rizal, passionate about Cyber Security and constantly learning ethical hacking and network security. I love exploring tools like Kali Linux, Burp Suite, and Wireshark, and I’m dedicated to understanding how digital systems work to protect them from threats. Stay curious, stay secure!
   </i>
