@@ -10,7 +10,7 @@
 <!-- Motivation Section (font size smaller) -->
 <p align="center" style="font-size:8 px;">
   <i>
-     Hello, I’m Akhyul Rizal. I am currently learning programming and networking, with a focus on digital security. I am passionate about continuously improving my skills to contribute to creating safe and reliable digital environments.
+     Hello, I’m Akhyul Rizal. I am currently studying programming and networking, with an interest in cybersecurity. I strive to continuously improve my skills to play an active role in creating secure digital systems.
   </i>
 </p>
 
