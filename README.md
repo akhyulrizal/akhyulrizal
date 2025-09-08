@@ -10,7 +10,7 @@
 <!-- Motivation Section (font size smaller) -->
 <p align="center" style="font-size:8 px;">
   <i>
-     Hi! I’m Akhyul Rizal, passionate about Cyber Security and constantly learning ethical hacking and network security. I love exploring tools like Kali Linux, Burp Suite, and Wireshark, and I’m dedicated to understanding how digital systems work to protect them from threats. Stay curious, stay secure!
+     Hello, I’m Akhyul Rizal. I am currently learning programming and networking, with a focus on digital security. I am passionate about continuously improving my skills to contribute to creating safe and reliable digital environments.
   </i>
 </p>
 
